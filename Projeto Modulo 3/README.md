@@ -1,6 +1,6 @@
 # ArenaBR - Vôos e Jogos 
 # Projeto Módulo 3 – Low Code/Vibecode/No Code.
-# Equipe: Lucas Gonçalves, Miguel Henrique, Samuel Davi.
+# Equipe: Lucas Gonçalves Pinheiro, Miguel Henrique Oliveira Santos, Samuel Davi Santos Cecílio.
 
 ## 📌 Desafio Escolhido
 
